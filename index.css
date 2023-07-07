@@ -1,0 +1,90 @@
+.images-auto-x2-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 844px;
+  object-fit: cover;
+}
+.splash-screen-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 386.75px;
+  height: 844px;
+}
+.bank-control1,
+.neter1 {
+  position: absolute;
+  top: 0;
+  left: 96.55px;
+}
+.bank-control1 {
+  top: 78.99px;
+  left: 98.94px;
+  font-size: 36px;
+  font-weight: 290;
+  text-align: justify;
+}
+.logo-item,
+.logo1 {
+  position: absolute;
+  top: 13.72px;
+  left: -5.98px;
+  width: 92.56px;
+  height: 109.78px;
+}
+.logo1 {
+  top: 670px;
+  left: 46px;
+  width: 303.94px;
+  height: 123.99px;
+  text-align: left;
+  font-size: 79.79px;
+  font-family: Lato;
+}
+.button1 {
+  position: relative;
+  font-weight: 500;
+}
+.buttonprimarylongno-iconde1,
+.buttonsecondarylongno-icon {
+  position: absolute;
+  left: 88px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 64px;
+  align-items: center;
+  justify-content: center;
+}
+.buttonprimarylongno-iconde1 {
+  top: 295px;
+  background-color: #5cebd3;
+  width: 215px;
+  box-sizing: border-box;
+  color: #2f374a;
+}
+.buttonsecondarylongno-icon {
+  top: 358px;
+  background-color: #1f232d;
+  border: 2px solid #5cebd3;
+}
+.continuar-sem-cadastro {
+  position: absolute;
+  top: 421px;
+  left: 109px;
+  font-weight: 500;
+  color: #5cebd3;
+}
+.splash-screen {
+  position: relative;
+  background-color: #1f232d;
+  width: 390px;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Roboto;
+}
